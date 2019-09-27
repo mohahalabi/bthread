@@ -53,3 +53,4 @@ dkms.conf
 
 # IDE stuff
 .idea
+cmake-build-debug
